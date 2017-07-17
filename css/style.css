@@ -1,0 +1,33 @@
+.subheading {
+	font-weight: 300;
+}
+
+blockquote {
+	font-weight: 300;
+	font-style: italic;
+	float: right;
+}
+
+h4 {
+	font-weight: 300;
+}
+
+em {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+}
+
+.bigger {
+	font-size: 20px;
+}
+
+.about {
+	min-width: 40%;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
